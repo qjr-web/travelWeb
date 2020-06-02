@@ -1,0 +1,34 @@
+<?php
+include('../conn.php');
+//第一步：连接数据
+$username=$_POST['username'];
+$password=$_POST['password'];
+$password1=$_POST['password1'];
+//第二步：验证数据的有效性
+if(strlen($username)<1){
+	//echo'用户名不能为空！';exit;
+	alert('用户名不能为空，请重新注册！','register.php');
+}
+if(strlen($password)<6){
+	alert('密码不能小于六位，请重新注册！','register.php');
+}
+if($password1!=$password){
+	alert('两次密码不同','register.php');
+}
+//第三步：构造SQL语句，查询数据库，返回查到的数据，验证用户名和密码是否在数据库中存在。
+$sql="select * from user where username='$username'";
+$rs=mysqli_query($conn,$sql);//将构造好的SQL语句发往服务器去执行，将执行的结果返回到$rs变量中，$rs叫结果集
+if(mysqli_num_rows($rs)!=0){
+	alert('用户名已存在,请换个用户名注册','register.php');	
+}
+else{
+	$sql="insert into user(username,password) values('$username','$password')";
+	$r=mysqli_query($conn,$sql);
+	if(!$r){
+		alert('注册失败','register.php');	
+	}	
+	else{
+		alert('注册成功','login.php');
+	}
+}
+?>

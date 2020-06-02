@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="login.php" server="F:/PHP/www/myphp/" local="132334904930619088" remote="132334904930000000" />
+<file name="index.php" server="F:/PHP/www/myphp/" local="132309696368333754" remote="132309696360000000" />
+<file name="checklogin.php" server="F:/PHP/www/myphp/" local="132309702817292614" remote="132309702810000000" />
+<file name="header.php" server="F:/PHP/www/myphp/" local="132334905931526336" remote="132334905930000000" />
+<file name="logout.php" server="F:/PHP/www/myphp/" local="132271600350435291" remote="132271600350000000" />
+<file name="cate_new.php" server="F:/PHP/www/myphp/" local="132271791539497084" remote="132271791530000000" />
+<file name="cate_new_save.php" server="F:/PHP/www/myphp/" local="132271612056974996" remote="132271612050000000" />
+<file name="cate_list.php" server="F:/PHP/www/myphp/" local="132271790812885524" remote="132271790810000000" />
+<file name="cate_delete.php" server="F:/PHP/www/myphp/" local="132271625147409964" remote="132271625140000000" />
+<file name="cate_edit.php" server="F:/PHP/www/myphp/" local="132271791375317693" remote="132271791370000000" />
+<file name="cate_edit_save.php" server="F:/PHP/www/myphp/" local="132271631159803542" remote="132271631150000000" />
+<file name="story_new.php" server="F:/PHP/www/myphp/" local="132309731926447562" remote="132309731920000000" />
+<file name="story_new_save.php" server="F:/PHP/www/myphp/" local="132287359667709877" remote="132287359660000000" />
+<file name="story_list.php" server="F:/PHP/www/myphp/" local="132288027264897426" remote="132288027260000000" />
+<file name="story_delete.php" server="F:/PHP/www/myphp/" local="132271756019935481" remote="132271756010000000" />
+<file name="story_edit.php" server="F:/PHP/www/myphp/" local="132287991015984107" remote="132287991010000000" />
+<file name="story_edit_save.php" server="F:/PHP/www/myphp/" local="132271739443925536" remote="132271739440000000" />
+<file name="method_delete.php" server="F:/PHP/www/myphp/" local="132272431911500487" remote="132272431910000000" />
+<file name="method_edit.php" server="F:/PHP/www/myphp/" local="132287992070024395" remote="132287992070000000" />
+<file name="method_edit_save.php" server="F:/PHP/www/myphp/" local="132272418074332375" remote="132272418070000000" />
+<file name="method_list.php" server="F:/PHP/www/myphp/" local="132288089603622997" remote="132288089600000000" />
+<file name="guestbook_list.php" server="F:/PHP/www/myphp/" local="132272436906485102" remote="132272436900000000" />
+<file name="comment_list.php" server="F:/PHP/www/myphp/" local="132271828156081433" remote="132271828150000000" />
+<file name="comment_delete.php" server="F:/PHP/www/myphp/" local="132271818242474407" remote="132271818240000000" />
+<file name="collect_list.php" server="F:/PHP/www/myphp/" local="132271827898666709" remote="132271827890000000" />
+<file name="good_list.php" server="F:/PHP/www/myphp/" local="132271827622300902" remote="132271827620000000" />
+<file name="flink_new.php" server="F:/PHP/www/myphp/" local="132271834358976218" remote="132271834350000000" />
+<file name="flink_new_save.php" server="F:/PHP/www/myphp/" local="132271844900569162" remote="132271844900000000" />
+<file name="flink_list.php" server="F:/PHP/www/myphp/" local="132271857682480246" remote="132271857680000000" />
+<file name="flink_delete.php" server="F:/PHP/www/myphp/" local="132271847244943253" remote="132271847240000000" />
+<file name="flink_edit.php" server="F:/PHP/www/myphp/" local="132271855129944249" remote="132271855120000000" />
+<file name="flink_edit_save.php" server="F:/PHP/www/myphp/" local="132271855504445670" remote="132271855500000000" />
+<file name="user_list.php" server="F:/PHP/www/myphp/" local="132271862714948087" remote="132271862710000000" />
+<file name="user_delete.php" server="F:/PHP/www/myphp/" local="132271862144605465" remote="132271862140000000" />
+<file name="admin_new.php" server="F:/PHP/www/myphp/" local="132271868903112029" remote="132271868900000000" />
+<file name="admin_new_save.php" server="F:/PHP/www/myphp/" local="132271868285046678" remote="132271868280000000" />
+<file name="admin_list.php" server="F:/PHP/www/myphp/" local="132271871649629121" remote="132271871640000000" />
+<file name="admin_delete.php" server="F:/PHP/www/myphp/" local="132271926091032991" remote="132271926090000000" />
+<file name="admin_edit.php" server="F:/PHP/www/myphp/" local="132271927639181540" remote="132271927630000000" />
+<file name="admin_edit_save.php" server="F:/PHP/www/myphp/" local="132271928854101030" remote="132271928850000000" />
+<file name="bottom.php" server="F:/PHP/www/myphp/" local="132287998293030330" remote="132287998290000000" />
+</dwsync>

@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#FFF7F2;
+}
+.sbox {
+	width:1200px;
+	height:auto;
+	margin:0 auto;
+}
+.slbox {
+	float:right;
+	width:900px;
+}
+
+.srbox {
+	float:left;
+	width:240px;
+}
+.slist {
+	width:900px;
+	height:170px;
+	margin:20px auto;
+	background-color:#F9F9F9;
+	border:#FFA980 1px solid;
+	border-radius:8px;
+}
+.slist h3 {
+	width:350px;
+	height:30px;
+	line-height:30px;
+	margin-top:0;
+	text-align:center;
+	background:#FFCBB3;
+	border-radius:8px;
+}
+.slist span {
+	margin-right:40px;
+}
+.simg img {
+	width:150px;
+	height:150px;
+	margin:10px;
+	float:right;
+	border-radius:40px 10px 40px 10px;
+}
+.scontent {
+	width:700px;
+	height:150px;
+	float:left;
+	margin:10px auto;
+	padding-left:20px;
+}
+.page {
+	height:20px;
+	line-height:20px;
+	text-align:center;
+	margin:30px auto;
+}
+.page a {
+	border:#000 solid 1px;
+	padding:2px 5px;
+}
+.on {
+	color:#F00;
+	font-size:24px;
+}
+.scategory {
+	width:240pxs
+	height:300px;
+	margin:50px auto;
+	padding-bottom:10px;
+	background-color:#F9F9F9;
+	border:#FFA980 1px solid;
+	border-radius:10px;
+}
+.scategory p {
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	border:#2A0055 1px solid;
+	border-radius:50px;
+	background-color:#FFC1A4;
+}
+.scategory li {
+	height:40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

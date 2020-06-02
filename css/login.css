@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#F1F1F1;
+	font-family:"宋体";
+	font-size:18px;
+}
+.middle {
+	padding-top:50px;
+	width:1100px;
+	height:350px;
+	margin:100px auto;
+}
+.left {
+	width:310px;
+	height:350px;
+	float:left;
+	margin:0 auto;
+}
+.right {
+	padding-top:100px;
+	width:500px;
+	height:350px;
+	float:right;
+	margin:0 auto;
+	background-color:#F1F1F1;
+	line-height:50px;
+	text-align:center;
+	font-size:18px;
+}
+.back {
+	height:20px;
+	width:100px;
+	float:right;
+}
+.button1 {
+	background-color:#A0BFD4; 
+	width:160px; height:40px;
+	border:#FFF solid 2px ; 
+	font-size: 24px ; 
+	border-radius:8px;
+	
+}
